@@ -2,7 +2,7 @@
 # lab03 of MYY505 - Computer Architecture
 # Department of Computer Engineering, University of Ioannina
 # Aris Efthymiou
-
+# Yes pretty much another blunder but fake it till u make duh
 # This directive declares subroutines. Do not remove it!
 .globl rgb888_to_rgb565, showImage
 
